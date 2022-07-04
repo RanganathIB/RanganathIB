@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @RanganathIB
-- 👀 I’m interested in Full Stack Developement
-- 🌱 I’m currently learning React 
-- 📫 How to reach me Gmail : ibranganath171@gmail.com
+
